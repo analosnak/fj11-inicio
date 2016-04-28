@@ -1,5 +1,5 @@
 class MeuPrograma {
-  public void main(String[] args) {
-    System.out.println("Sem ponto e virgula");
+  static void main(String[] args) {
+    System.out.println("Main not public");
   }
 }
