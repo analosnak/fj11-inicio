@@ -1,5 +1,5 @@
 class MeuPrograma {
-  static void main(String[] args) {
-    System.out.println("Main not public");
+  public static void main(String[] args) 
+    System.out.println("Erros");
   }
 }
