@@ -1,5 +1,5 @@
-class MeuPrograma {
-  public static void main(String[] args) 
+ MeuPrograma {
+  public static void main(String[] args) { 
     System.out.println("Erros");
   }
 }
